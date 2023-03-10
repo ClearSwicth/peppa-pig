@@ -1,0 +1,19 @@
+{
+    "name": "clearswitch/peppa-pig",
+    "description": "php cli console",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Clearswitch\\PeppaPig\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ClearSwitch",
+            "email": "903221813@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
