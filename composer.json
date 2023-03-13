@@ -1,11 +1,11 @@
 {
-    "name": "clearswitch/peppa-pig",
+    "name": "clearswitch/peppa-pig-cli",
     "description": "php cli console",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Clearswitch\\PeppaPig\\": "src/"
+            "Clearswitch\\PeppaPigCli\\": "src/"
         }
     },
     "authors": [

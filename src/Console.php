@@ -4,7 +4,7 @@
  * User: daikai
  * Date: 2023/3/10
  */
-namespace  Clearswitch\PeppaPig;
+namespace  Clearswitch\PeppaPigCli;
 
 /**
  * php cli color
