@@ -2,7 +2,7 @@
 
 $loader = require_once __DIR__ . '/vendor/autoload.php';
 
-use Clearswitch\PeppaPig\Console;
+use Clearswitch\PeppaPigCli\Console;
 
 //无样式的输出
 Console::outPut("Hello Word");
